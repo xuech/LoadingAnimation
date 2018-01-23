@@ -12,12 +12,12 @@
 		F4C6FCF62016D5E3003135C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4C6FCF42016D5E3003135C1 /* Main.storyboard */; };
 		F4C6FCF82016D5E3003135C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4C6FCF72016D5E3003135C1 /* Assets.xcassets */; };
 		F4C6FCFB2016D5E3003135C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4C6FCF92016D5E3003135C1 /* LaunchScreen.storyboard */; };
-		F4C6FD032016D5F5003135C1 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD022016D5F5003135C1 /* AnimationView.swift */; };
-		F4C6FD062016D6F2003135C1 /* CircleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD052016D6F2003135C1 /* CircleLayer.swift */; };
-		F4C6FD082016DB97003135C1 /* TriangleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD072016DB97003135C1 /* TriangleLayer.swift */; };
-		F4C6FD0A2016DE2B003135C1 /* RectangleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD092016DE2B003135C1 /* RectangleLayer.swift */; };
-		F4C6FD0C2016DECE003135C1 /* WaveLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD0B2016DECE003135C1 /* WaveLayer.swift */; };
-		F4C6FD0E2016E051003135C1 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD0D2016E051003135C1 /* Extension.swift */; };
+		F4C6FD17201713F2003135C1 /* AnimationViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD10201713F2003135C1 /* AnimationViewExtension.swift */; };
+		F4C6FD18201713F2003135C1 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD11201713F2003135C1 /* AnimationView.swift */; };
+		F4C6FD19201713F2003135C1 /* WaveLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD13201713F2003135C1 /* WaveLayer.swift */; };
+		F4C6FD1A201713F2003135C1 /* RectangleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD14201713F2003135C1 /* RectangleLayer.swift */; };
+		F4C6FD1B201713F2003135C1 /* TriangleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD15201713F2003135C1 /* TriangleLayer.swift */; };
+		F4C6FD1C201713F2003135C1 /* CircleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C6FD16201713F2003135C1 /* CircleLayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,12 +28,12 @@
 		F4C6FCF72016D5E3003135C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4C6FCFA2016D5E3003135C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4C6FCFC2016D5E3003135C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F4C6FD022016D5F5003135C1 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
-		F4C6FD052016D6F2003135C1 /* CircleLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleLayer.swift; sourceTree = "<group>"; };
-		F4C6FD072016DB97003135C1 /* TriangleLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleLayer.swift; sourceTree = "<group>"; };
-		F4C6FD092016DE2B003135C1 /* RectangleLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleLayer.swift; sourceTree = "<group>"; };
-		F4C6FD0B2016DECE003135C1 /* WaveLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveLayer.swift; sourceTree = "<group>"; };
-		F4C6FD0D2016E051003135C1 /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		F4C6FD10201713F2003135C1 /* AnimationViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationViewExtension.swift; sourceTree = "<group>"; };
+		F4C6FD11201713F2003135C1 /* AnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
+		F4C6FD13201713F2003135C1 /* WaveLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaveLayer.swift; sourceTree = "<group>"; };
+		F4C6FD14201713F2003135C1 /* RectangleLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RectangleLayer.swift; sourceTree = "<group>"; };
+		F4C6FD15201713F2003135C1 /* TriangleLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TriangleLayer.swift; sourceTree = "<group>"; };
+		F4C6FD16201713F2003135C1 /* CircleLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleLayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,11 +66,9 @@
 		F4C6FCEF2016D5E3003135C1 /* LoadingAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				F4C6FD022016D5F5003135C1 /* AnimationView.swift */,
-				F4C6FD042016D6E2003135C1 /* Layer */,
+				F4C6FD0F201713F2003135C1 /* AnimationView */,
 				F4C6FCF02016D5E3003135C1 /* AppDelegate.swift */,
 				F4C6FCF22016D5E3003135C1 /* ViewController.swift */,
-				F4C6FD0D2016E051003135C1 /* Extension.swift */,
 				F4C6FCF42016D5E3003135C1 /* Main.storyboard */,
 				F4C6FCF72016D5E3003135C1 /* Assets.xcassets */,
 				F4C6FCF92016D5E3003135C1 /* LaunchScreen.storyboard */,
@@ -79,13 +77,23 @@
 			path = LoadingAnimation;
 			sourceTree = "<group>";
 		};
-		F4C6FD042016D6E2003135C1 /* Layer */ = {
+		F4C6FD0F201713F2003135C1 /* AnimationView */ = {
 			isa = PBXGroup;
 			children = (
-				F4C6FD052016D6F2003135C1 /* CircleLayer.swift */,
-				F4C6FD072016DB97003135C1 /* TriangleLayer.swift */,
-				F4C6FD092016DE2B003135C1 /* RectangleLayer.swift */,
-				F4C6FD0B2016DECE003135C1 /* WaveLayer.swift */,
+				F4C6FD10201713F2003135C1 /* AnimationViewExtension.swift */,
+				F4C6FD11201713F2003135C1 /* AnimationView.swift */,
+				F4C6FD12201713F2003135C1 /* Layer */,
+			);
+			path = AnimationView;
+			sourceTree = SOURCE_ROOT;
+		};
+		F4C6FD12201713F2003135C1 /* Layer */ = {
+			isa = PBXGroup;
+			children = (
+				F4C6FD13201713F2003135C1 /* WaveLayer.swift */,
+				F4C6FD14201713F2003135C1 /* RectangleLayer.swift */,
+				F4C6FD15201713F2003135C1 /* TriangleLayer.swift */,
+				F4C6FD16201713F2003135C1 /* CircleLayer.swift */,
 			);
 			path = Layer;
 			sourceTree = "<group>";
@@ -162,14 +170,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4C6FD032016D5F5003135C1 /* AnimationView.swift in Sources */,
-				F4C6FD0C2016DECE003135C1 /* WaveLayer.swift in Sources */,
-				F4C6FD082016DB97003135C1 /* TriangleLayer.swift in Sources */,
+				F4C6FD19201713F2003135C1 /* WaveLayer.swift in Sources */,
 				F4C6FCF32016D5E3003135C1 /* ViewController.swift in Sources */,
+				F4C6FD18201713F2003135C1 /* AnimationView.swift in Sources */,
+				F4C6FD1C201713F2003135C1 /* CircleLayer.swift in Sources */,
 				F4C6FCF12016D5E3003135C1 /* AppDelegate.swift in Sources */,
-				F4C6FD062016D6F2003135C1 /* CircleLayer.swift in Sources */,
-				F4C6FD0A2016DE2B003135C1 /* RectangleLayer.swift in Sources */,
-				F4C6FD0E2016E051003135C1 /* Extension.swift in Sources */,
+				F4C6FD17201713F2003135C1 /* AnimationViewExtension.swift in Sources */,
+				F4C6FD1A201713F2003135C1 /* RectangleLayer.swift in Sources */,
+				F4C6FD1B201713F2003135C1 /* TriangleLayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
